@@ -18,6 +18,7 @@ The material was previously assigned to *Asterotheca anderssonii* (Patagonia) an
 | PCA | PC1 = 50.3 %, PC2 = 30.9 % (81.2 % combined) |
 | Centroid size | Patagonia 31.0 ± 7.6; Shanxi 23.3 ± 3.4; Patagonia ≈33 % larger (t = 4.12, p = 0.0003), with substantial overlap |
 | MANCOVA (shape ~ size × site) | Site: F = 22.45, p = 0.001, R² = 0.368; size: p = 0.352; interaction: p = 0.219 |
+| Hierarchical ANOVA | 32.0 % of total shape variation occurs among pinnae within specimens (residual) |
 | Permutation test | Observed Procrustes distance D = 0.099; p < 0.001 (10,000 permutations) |
 | Between-group analysis | p = 0.0001; Δ = 0 % |
 | LOOCV | 35/40 specimens correctly classified (87.5 %); the three pinnae of a specimen are held out together |

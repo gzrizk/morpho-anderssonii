@@ -1,0 +1,26 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temporary / backups
+Rplots.pdf
+*.tmp
+*.bak
+*.backup_*

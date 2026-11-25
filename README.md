@@ -78,7 +78,7 @@ If you use these data, please cite:
 
 ## Contact
 
-Gonzalo Rodriguez Rizk — gonzalorizk@gmail.com
+Gonzalo Rodriguez Rizk — gonzalorizk@macn.gov.ar
 Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" (MACN–CONICET), Buenos Aires, Argentina.
 
 ## Acknowledgments

@@ -66,7 +66,7 @@ The statistical analyses were performed in R with `geomorph` and `RRPP`; this re
 
 ## License
 
-- **Code**: MIT License; see `LICENSE-CODE`.
+- **Code**: MIT License; see `LICENSE`.
 - **Data and derived tables**: Creative Commons Attribution 4.0 International (CC BY 4.0); see `LICENSE-DATA`.
 
 ## Citation
